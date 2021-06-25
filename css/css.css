@@ -1,0 +1,65 @@
+body{
+    direction: rtl;
+}
+@font-face {
+    font-family: 'MyFontName';
+    src: url(../session-9/fonts/Vazir-Bold.woff);
+}
+*{
+    font-weight: bold;
+}
+h1{
+    color: rgb(122, 6, 6);
+    font-size: 56px;
+    font-weight: bold;
+}
+span{
+    color: rgb(83, 7, 7);
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration-line:underline;
+    text-decoration-style: initial;
+    text-decoration-color: maroon;
+}
+.first{
+    color: rgb(6, 85, 85);
+    font-size: 22px;
+}
+#part-2{
+    color: rgb(17, 63, 116);
+    text-decoration-line: underline;
+    text-decoration-color: rgb(9, 68, 95);
+}
+#part-3{
+    color: rgb(99, 11, 11);
+}
+.card{
+    color: rgb(78, 7, 7);
+    text-decoration-line: underline;
+    text-decoration-color:rgb(99, 7, 7);
+    text-decoration-style:wavy;
+}
+.h2{
+    color: rgb(107, 12, 12);
+    font-size: 18px;
+}
+li.h3{
+    color: rgb(24, 85, 104);
+}
+ol>li{
+    color: #051f41;
+}
+li.h4{
+    font-size: 26px;
+}
+#part-4{
+    color:#680606;
+}
+strong{
+    color: rgb(117, 15, 15);
+    font-size: 18px;
+    text-decoration-line: underline;
+    text-decoration-color:#680606;
+    font-style: oblique;
+}
+
