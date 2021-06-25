@@ -1,7 +1,9 @@
 body{
     direction: rtl;
 }
+/* فایل فونت وجود ندارد */
 @font-face {
+    /* از این نام در هیچ جا استفاده نشده است */
     font-family: 'MyFontName';
     src: url(../session-9/fonts/Vazir-Bold.woff);
 }
